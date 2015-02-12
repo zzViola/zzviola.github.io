@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://zzviola.github.io/atom.xml" rel="self"/>
   <link href="http://zzviola.github.io/"/>
-  <updated>2015-02-12T14:16:50-08:00</updated>
+  <updated>2015-02-12T14:19:26-08:00</updated>
   <id>http://zzviola.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Forth]]></title>
+    <link href="http://zzviola.github.io/blog/2015/02/12/forth/"/>
+    <updated>2015-02-12T14:19:20-08:00</updated>
+    <id>http://zzviola.github.io/blog/2015/02/12/forth</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Third]]></title>
