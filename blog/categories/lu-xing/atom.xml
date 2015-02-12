@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[分类：旅行 | zzViola's Cozy Hut]]></title>
+  <link href="http://zzviola.github.io/blog/categories/lu-xing/atom.xml" rel="self"/>
+  <link href="http://zzviola.github.io/"/>
+  <updated>2015-02-12T15:57:02-08:00</updated>
+  <id>http://zzviola.github.io/</id>
+  <author>
+    <name><![CDATA[Zhenzhen Gao]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Forth]]></title>
+    <link href="http://zzviola.github.io/blog/2015/02/12/forth/"/>
+    <updated>2015-02-12T14:19:20-08:00</updated>
+    <id>http://zzviola.github.io/blog/2015/02/12/forth</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[First]]></title>
+    <link href="http://zzviola.github.io/blog/2015/02/12/first/"/>
+    <updated>2015-02-12T14:05:06-08:00</updated>
+    <id>http://zzviola.github.io/blog/2015/02/12/first</id>
+    <content type="html"><![CDATA[<p>Finally! My first post is up!</p>
+]]></content>
+  </entry>
+  
+</feed>
