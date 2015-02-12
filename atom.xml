@@ -4,7 +4,7 @@
   <title><![CDATA[zzViola's Cozy Hut]]></title>
   <link href="http://zzviola.github.io/atom.xml" rel="self"/>
   <link href="http://zzviola.github.io/"/>
-  <updated>2015-02-12T15:49:32-08:00</updated>
+  <updated>2015-02-12T15:54:38-08:00</updated>
   <id>http://zzviola.github.io/</id>
   <author>
     <name><![CDATA[Zhenzhen Gao]]></name>
@@ -15,45 +15,45 @@
   
   <entry>
     <title type="html"><![CDATA[Fifth]]></title>
-    <link href="http://zzviola.github.io/blog/20150212/fifth.html/"/>
+    <link href="http://zzviola.github.io/blog/2015/02/12/fifth/"/>
     <updated>2015-02-12T15:49:15-08:00</updated>
-    <id>http://zzviola.github.io/blog/20150212/fifth</id>
+    <id>http://zzviola.github.io/blog/2015/02/12/fifth</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Forth]]></title>
-    <link href="http://zzviola.github.io/blog/20150212/forth.html/"/>
+    <link href="http://zzviola.github.io/blog/2015/02/12/forth/"/>
     <updated>2015-02-12T14:19:20-08:00</updated>
-    <id>http://zzviola.github.io/blog/20150212/forth</id>
+    <id>http://zzviola.github.io/blog/2015/02/12/forth</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Third]]></title>
-    <link href="http://zzviola.github.io/blog/20150212/third.html/"/>
+    <link href="http://zzviola.github.io/blog/2015/02/12/third/"/>
     <updated>2015-02-12T14:16:45-08:00</updated>
-    <id>http://zzviola.github.io/blog/20150212/third</id>
+    <id>http://zzviola.github.io/blog/2015/02/12/third</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Second]]></title>
-    <link href="http://zzviola.github.io/blog/20150212/second.html/"/>
+    <link href="http://zzviola.github.io/blog/2015/02/12/second/"/>
     <updated>2015-02-12T14:15:31-08:00</updated>
-    <id>http://zzviola.github.io/blog/20150212/second</id>
+    <id>http://zzviola.github.io/blog/2015/02/12/second</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[First]]></title>
-    <link href="http://zzviola.github.io/blog/20150212/first.html/"/>
+    <link href="http://zzviola.github.io/blog/2015/02/12/first/"/>
     <updated>2015-02-12T14:05:06-08:00</updated>
-    <id>http://zzviola.github.io/blog/20150212/first</id>
+    <id>http://zzviola.github.io/blog/2015/02/12/first</id>
     <content type="html"><![CDATA[<p>Finally! My first post is up!</p>
 ]]></content>
   </entry>
