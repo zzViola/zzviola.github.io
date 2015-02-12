@@ -4,7 +4,7 @@
   <title><![CDATA[zzViola's Cozy Hut]]></title>
   <link href="http://zzviola.github.io/atom.xml" rel="self"/>
   <link href="http://zzviola.github.io/"/>
-  <updated>2015-02-12T15:41:31-08:00</updated>
+  <updated>2015-02-12T15:49:32-08:00</updated>
   <id>http://zzviola.github.io/</id>
   <author>
     <name><![CDATA[Zhenzhen Gao]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Fifth]]></title>
+    <link href="http://zzviola.github.io/blog/20150212/fifth.html/"/>
+    <updated>2015-02-12T15:49:15-08:00</updated>
+    <id>http://zzviola.github.io/blog/20150212/fifth</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Forth]]></title>
